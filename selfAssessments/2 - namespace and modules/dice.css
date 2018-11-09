@@ -1,0 +1,7 @@
+
+body div{
+    display:inline-block;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+}
